@@ -5,4 +5,4 @@ Team 3: A collaboarative Git project
 
 Team 3: Learning Git Together
 
-Edited!!!!!!
+Contributors: Rhett S, ALberto E, Andrew P.
